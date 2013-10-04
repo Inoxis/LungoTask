@@ -1,0 +1,7 @@
+{
+  "name"            : "flow",
+  "devDependencies" : {
+    "grunt-contrib-coffee"  : "*",
+    "grunt-contrib-watch"   : "*" },
+  "engines"         : { "node": "*"}
+}
